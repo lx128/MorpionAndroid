@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Morpion</string>
+    <string name="text_score">Ronds:%1$s Croix: %2$s</string>
+    <string name="text_debut">Les croix commencent</string>
+    <string name="text_win">Gagné !</string>
+    <string name="text_draw">Match nul</string>
+    <string name="button_name">Nouvelle partie</string>
+    <string name="button2_name">A propos</string>
+</resources>
